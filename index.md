@@ -5,6 +5,6 @@ title: Inicio
 
 # Apuntes
 
-- [Optimización](/optimizacion/)
+- [BSE](/BSE/)
 - [Álgebra Lineal](/algebra-lineal/)
 - [EDP](temas/edp.md)   <!-- o con permalink: /edp/ -->
