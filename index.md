@@ -6,5 +6,6 @@ title: Inicio
 # Apuntes
 
 - [BSE](/BSE/)
-- [Álgebra Lineal](/algebra-lineal/)
+- [VFE](/VFE/)
+- [LLG](/LLG/)
 - [EDP](temas/edp.md)   <!-- o con permalink: /edp/ -->
