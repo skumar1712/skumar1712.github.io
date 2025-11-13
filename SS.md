@@ -5,10 +5,13 @@ permalink: /SS/
 ---
 
 # Introduction 
-When I think of self-similarity, the first thing that comes to my mind is Romanesco broccoli, a shape that can be mathematically  related to that spiral. In fact, while reading more on the topic, I came across something called the Broccoli equation. I will leave the link below, and for now, we will try to understand what exactly it means to be self-similar mathematically.
-
-In simple words, self-similar means that no matter how much you zoom in, you will see the same shape that you saw initially. This thinking can then be applied not only to shapes (expressed by functions), but also to equations. 
+When I think of self-similarity, the first thing that comes to my mind is Romanesco broccoli. The shape is indeed self-similar and mathematically closely related to a spiral. In simple words, self-similar means that no matter how much you zoom in, you will see the same shape. This thinking can then be applied not only to shapes (sets, functions), but also to equations. 
 
 # Self-similarity of shapes/functions
+Formally, a function $f(x)$ or a set $S$ is self-similar if scaling the input by a factor $\lambda$ changes the output in a predictable, proportional way
+$$
+f(\lambda x) = \lambda^k f(x),
+$$
+where $k$ is a scaling exponent. 
 
 # Self-similarity of equations
