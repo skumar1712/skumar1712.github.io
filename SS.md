@@ -16,11 +16,11 @@ where $k$ is a scaling exponent. Here are some intuitive real-world examples, so
 
 This is a standard definition of a homogeneous function of degree $k$ that we learn in Calculus. A simple example of a self-similar shape is the pyramid given by the function 
 
-$$f(x,y) = |x|+|y|.$$ 
+$$f(x,y) = |x|+|y|$$. 
 
 The function is homogeneous of degree 1, with the level sets given by
 
-$$|x|+|y|=c,$$ 
+$$|x|+|y|=c$$, 
 
 which are diamonds (squares rotated by 45 °). 
 
