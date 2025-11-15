@@ -54,7 +54,7 @@ $$
 then 
 
 $$
-\lambda r(\theta) = r_0 e^{(b+i) (\theta+\Delta \theta)} 
+\lambda r(\theta) = r_0 e^{b (\theta+\Delta \theta)} 
 $$
 ,
 
