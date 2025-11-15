@@ -39,8 +39,24 @@ This means that if you view the pyramid from above (looking down the $z$-axis) a
 
 Another interesting and closed-form example is the logarithmic spiral, which has exact geometric self-similarity. In the polar form, it can be expressed as
 
-$$r(\theta)=r_0 e^{b\theta}$$.
+$$r(\theta)=r_0 e^{b\theta}$$
+,
 
+where $r_0>$ is the initial radius, $b\ne0$ controls how tightly the spiral winds and $\theta$ is the polar angle. 
+
+So if we scale or zoom the spiral by a factor $\lambda$, i.e., 
+
+$$
+r\rightarrow \lambda r
+$$
+
+then 
+
+$$
+\lambda r(\theta) = r_0 e^{(b+i) (\theta+\Delta \theta)} 
+$$
+
+where $\Delta \theta = \frac{\ln \lambda}{b}$. 
 
 Special case: Golden spiral. 
 
