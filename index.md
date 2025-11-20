@@ -3,9 +3,6 @@ layout: default
 title: Inicio
 ---
 
-<div class="content-wide">
-
-
 # Content
 
 - [Black--Scholes equation](/BSE/)
@@ -15,5 +12,5 @@ title: Inicio
 - [Physics Informed Neural Networks](/PINNs/)
 - [Schrödinger's equation](/SchE/)
  
-</div>
+
 
