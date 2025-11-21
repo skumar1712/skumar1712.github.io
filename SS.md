@@ -9,7 +9,7 @@ permalink: /SS/
 # Introduction 
 When I think of self-similarity, the first thing that comes to my mind is Romanesco broccoli. The shape is indeed self-similar and mathematically closely related to a spiral. In simple words, self-similar means that no matter how much you zoom in, you will see the same shape. This thinking can then be applied not only to shapes (sets, functions), but also to equations. 
 
-# Self-similarity of shapes/functions
+# Self-similarity of functions
 Formally, a function $f(x)$ or a set $S$ is self-similar if scaling the input by a factor $\lambda$ changes the output in a predictable, proportional way:
 
 $f(\lambda x) = \lambda^k f(x),$
@@ -54,6 +54,8 @@ f(\lambda x, \lambda y) = |\lambda x| + |\lambda y| = c \implies  |x| + |y| = \f
 $$
 .
 
+# Self-similarity of curves
+
 Another interesting and closed-form example is the logarithmic spiral, which has exact geometric self-similarity. In the polar form, it can be expressed as
 
 $$r(\theta)=r_0 e^{b\theta}$$
@@ -94,8 +96,8 @@ $$
 This means zooming the entire curve is equivalent to rotating it; the shape remains the same, but not the size. 
 
 <div style="display: flex; gap: 15px;">
-  <img src="../assets/images/spiralzoom.gif" style="max-width: 240px; height: auto;" >
   <img src="../assets/images/galaxylognasa.png" style="max-width: 300px; height: auto;">
+  <img src="../assets/images/spiralzoom.gif" style="max-width: 240px; height: auto;" >  
 </div>
 Messier 74. *Image credit: www.nasa.gov (Public Domain).*
 
