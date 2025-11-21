@@ -39,6 +39,10 @@ $$
 
 This means that if you view the pyramid from above (looking down the $z$-axis) and zoom in by a factor of 2, you will see the same square shape with half the side length. Moreover, this remains true for any zooming factor: no matter how much you zoom in or out, the level sets keep the same shape, differing only by scale.
 
+![3D pyramid shape](assets/images/pyramid3d.png)
+
+![Level curves of pyramid](assets/images/pyramid2d.png)
+
 So the self-similarity in this example can be expressed by
 
 $$
@@ -85,19 +89,11 @@ $$
 
 This means zooming the entire curve is equivalent to rotating it; the shape remains the same, but not the size. 
 
-![3D pyramid shape](assets/images/pyramid3d.png)
-
-![Level curves of pyramid](assets/images/pyramid2d.png)
 
 ![spiral zoom](assets/images/spiralzoom.gif)
 
 ![Spiral Galaxy NGC 3147](assets/images/galaxynasa.jpg) 
 *Image credit: www.nasa.gov (Public Domain).*
-
-
-
- 
-Images of Galaxy and cyclones. 
 
 
 # Self-similarity of equations
