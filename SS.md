@@ -136,7 +136,7 @@ Left: Messier 74. *Image credit: www.nasa.gov (Public Domain).* Right: *Golden s
 After seeing self-similarity in both functions and curves, it's natural to wonder whether these objects appear as solutions of differential equations. In fact, the answer is yes and in the case of a logarithmic spiral, it's a simple Ordinary Differential Equation (ODE),
 
 $$
-r^\prime = b r
+r^\prime = \frac{dr}{d\theta}=b r(\theta)
 $$
 .
 
