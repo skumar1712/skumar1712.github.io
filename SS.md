@@ -51,7 +51,7 @@ This means that if you view the pyramid from above (looking down the $z$-axis) a
 
 <div style="display: flex; gap: 15px;">
   <img src="../assets/images/Invpyramid3d.png" width="300">
-  <img src="../assets/images/Invpyramid2d.png" width="280">
+  <img src="../assets/images/Invpyramid2d.png" width="275">
 </div>
 
 So the self-similarity in this example can be expressed by
