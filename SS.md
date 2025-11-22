@@ -164,7 +164,7 @@ $$
 .
 
 
-A natural self-similar form is given by
+In this case, a natural self-similar form is given by
 
 $$
 u(x,t) = t^{-1/2} u\left(\frac{x}{\sqrt{t}}, 1 \right) = t^{-1/2} F\left(\frac{x}{\sqrt{t}}\right) = t^{-1/2} F(\xi)
