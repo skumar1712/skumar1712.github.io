@@ -107,7 +107,7 @@ $$
 
 -->
 
-It turns out that when $\Delta \theta = \frac{\pi}{2}$, and $\lambda = \frac{1+\sqrt{5}}{2}$, the Golden ratio, then the corresponding spiral is  called the  Golden spiral. Hooreyyy!!! 
+It turns out that when $\Delta \theta = \frac{\pi}{2}$, and $\lambda = \frac{1+\sqrt{5}}{2}$, the Golden ratio, then the corresponding spiral is  called the  Golden spiral. Voilà! That's the shape of a Romanescu broccoli!
 
 <!--
 So the self-similarity in this example can be expressed as
@@ -133,7 +133,11 @@ Left: Messier 74. *Image credit: www.nasa.gov (Public Domain).* Right: *Golden s
 
 # Self-similarity of equations
 
-Self-similar solutions of heat and Schrödinger equations. 
+After having seen the self-similarity in functions, curves, it's a natural mathematical thought to consider whether these quantities solve any equation. In the case of a logarithmic spiral, it's a simple Ordinary Differential Equation (ODE), which can be derived by imposing that as we move along the curve $r(\theta)$, the tangent vector always makes a constant angle with the radial direction (the line from the origin to the point). That is, $r$ solves
 
-images in 1d and 2d. 
+$$
+r^\prime = b r
+$$
+.
+
 
