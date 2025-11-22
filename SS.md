@@ -195,7 +195,7 @@ $$
 
 where $\kappa$, is the curvature and $\mathbf{n}$, the normal vector. This equation is known as *Curve shortening flow (CSF)* and explains the evolution of a curve whose velocity vector has the tangential component equal to zero.
 
-Although using the two-dimensional Frenet frame, one can write $\gamma_t=\gamma_{ss}$, which might remind us of the heat equation; let's not get mistaken, as the arc-length parameterisation changes with time. However, just as with the heat equation, it is natural to ask whether the flow admits self-similar solutions.
+Although using the two-dimensional Frenet frame, one can write $\gamma_t=\gamma_{ss}$, which might remind us of the heat equation, but let's not get mistaken, as the arc-length parameterisation here changes with time. However, just as with the heat equation, it is natural to ask whether the flow admits self-similar solutions.
 
 It turns out that CSF is invariant under rotations and scalings. This means we look for solutions of the form
 
