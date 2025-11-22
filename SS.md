@@ -159,7 +159,7 @@ $$
 that is, if $u(x,t)$ solves the equations, then so does
 
 $$
-u_\lambda(x, t) = u(\lambda x, \lambda^2 t)
+u_\lambda(x, t) = \lambda u(\lambda x, \lambda^2 t)
 $$
 .
 
