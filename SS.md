@@ -164,9 +164,17 @@ $$
 .
 
 
-its self-similar solution is given by
+A natural self-similar form is given by
 
 $$
-u(x,t) = 
+u(x,t) = t^{-1/2} F\left(\frac{x}{\sqrt{t}}\right)
 $$
+,
+
+where the profile $F$ solves
+
+$$
+F^{\prime\prime} + \frac{\xi}{2} + \frac12 F=0
+$$
+.
 
