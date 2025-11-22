@@ -133,11 +133,40 @@ Left: Messier 74. *Image credit: www.nasa.gov (Public Domain).* Right: *Golden s
 
 # Self-similarity of equations
 
-After having seen the self-similarity in functions, curves, it's a natural mathematical thought to consider whether these quantities solve any equation. In the case of a logarithmic spiral, it's a simple Ordinary Differential Equation (ODE), which can be derived by imposing that as we move along the curve $r(\theta)$, the tangent vector always makes a constant angle with the radial direction (the line from the origin to the point). That is, $r$ solves
+After seeing self-similarity in both functions and curves, it's natural to wonder whether these objects appear as solutions of differential equations. In fact, the answer is yes and in the case of a logarithmic spiral, it's a simple Ordinary Differential Equation (ODE),
 
 $$
 r^\prime = b r
 $$
 .
 
+This equation can be derived by imposing that as we move along the curve $r(\theta)$, the tangent vector always makes a constant angle with the radial direction (the line from the origin to the point). 
+
+More generally, for Partial Differential Equations (PDEs), imposing a self-similar form often transforms the PDE into an ODE, which is often _less_ complicated to study. For example, the heat equation 
+
+$$
+u_t = u_{xx}
+$$
+,
+
+is invariant under the scaling
+
+$$
+x \rightarrow \lambda x, \quad t \rightarrow \lambda^2 t  
+$$
+;
+
+that is, if $u(x,t)$ solves the equations, then so does
+
+$$
+u_\lambda(x, t) = u(\lambda x, \lambda^2 t)
+$$
+.
+
+
+its self-similar solution is given by
+
+$$
+u(x,t) = 
+$$
 
